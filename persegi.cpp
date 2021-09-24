@@ -1,8 +1,9 @@
+// Created by Dekna
 #include <iostream>
 using namespace std;
 
 int main() {
-	
+
 // Luas Persegi : L = S x S
 // Keliling Persegi : K = 4 x S 	
 	
